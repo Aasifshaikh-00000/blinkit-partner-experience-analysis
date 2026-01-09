@@ -1,4 +1,4 @@
-# Blinkit | Partner Experience & Compensation Analysis
+# Blinkit | Partner Strike & Compensation Analysis
 
 ## Overview  
 This project analyzes delivery partner dissatisfaction at Blinkit using a business-first approach.  
